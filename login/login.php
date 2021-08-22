@@ -38,7 +38,7 @@
         <div class="login mx-auto my-5 py-5">
             <form name="frmUser" method="post" action="" class="bg-white p-3">
                 <h1 class="text-center py-5 my-3">Login</h1>
-                <div class="message text-center mb-3"><?php if($message!="") { echo $message; } ?></div>
+                <div class="message text-center mb-3 text-danger"><?php if($message!="") { echo $message; } ?></div>
                 <div class="form-floating mb-3">
                     <input type="text" class="form-control" name="email" id="floatingInput"
                         placeholder="name@example.com" />

@@ -35,7 +35,7 @@ Register User List
 
 edit.php
 <br/>
-updating form
+Updating Registered User Form
 
 <img src="https://github.com/rashedabir/Web_Engineering_Lab-Final/blob/main/Output%20SS/update.png" alt="" />
 
@@ -43,7 +43,7 @@ Success Messege after update
 
 <img src="https://github.com/rashedabir/Web_Engineering_Lab-Final/blob/main/Output%20SS/success.png" alt="" />
 
-final outcome
+Final Outcome
 
 <img src="https://github.com/rashedabir/Web_Engineering_Lab-Final/blob/main/Output%20SS/final.png" alt="" />
 
@@ -58,6 +58,6 @@ $color = array ( "color" => array ( "a" => "Red", "b" => "Green", "c" => "White"
 "holes" => array ( "First", 5 => "Second", "Third"));
 <br/>
 
-final output
+Final Output
 
 <img src="https://github.com/rashedabir/Web_Engineering_Lab-Final/blob/main/Output%20SS/prob9.png" alt="" />

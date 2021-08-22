@@ -60,4 +60,4 @@ $color = array ( "color" => array ( "a" => "Red", "b" => "Green", "c" => "White"
 
 final output
 
-<img src="https://github.com/rashedabir/Web_Engineering_Lab-Final/blob/main/Output%20SS/final.png" alt="" />
+<img src="https://github.com/rashedabir/Web_Engineering_Lab-Final/blob/main/Output%20SS/prob9.png" alt="" />

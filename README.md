@@ -1,4 +1,5 @@
 # Web_Engineering_Lab-Final
+
 Name: Abu Rashed Khan
 <br/>
 ID: 182-15-2155
@@ -6,6 +7,7 @@ ID: 182-15-2155
 PC-A
 
 # 2. a PHP program to log in the system using session.
+
 login.php
 
 <img src="https://github.com/rashedabir/Web_Engineering_Lab-Final/blob/main/Output%20SS/login.png" alt="" />
@@ -24,12 +26,15 @@ index.php
 <br/>
 
 # 5. a PHP program to see user registration info from the database and edit a user individually.
+
 index.php
+<br/>
 Register User List
 
 <img src="https://github.com/rashedabir/Web_Engineering_Lab-Final/blob/main/Output%20SS/users.png" alt="" />
 
 edit.php
+<br/>
 updating form
 
 <img src="https://github.com/rashedabir/Web_Engineering_Lab-Final/blob/main/Output%20SS/update.png" alt="" />
@@ -38,6 +43,21 @@ Success Messege after update
 
 <img src="https://github.com/rashedabir/Web_Engineering_Lab-Final/blob/main/Output%20SS/success.png" alt="" />
 
-fineal outcome
+final outcome
+
+<img src="https://github.com/rashedabir/Web_Engineering_Lab-Final/blob/main/Output%20SS/final.png" alt="" />
+
+# 9. a PHP script to print "second" and Red from the following array.
+
+Sample Data :
+<br/>
+$color = array ( "color" => array ( "a" => "Red", "b" => "Green", "c" => "White"),
+<br/>
+"numbers" => array ( 1, 2, 3, 4, 5, 6 ),
+<br/>
+"holes" => array ( "First", 5 => "Second", "Third"));
+<br/>
+
+final output
 
 <img src="https://github.com/rashedabir/Web_Engineering_Lab-Final/blob/main/Output%20SS/final.png" alt="" />
